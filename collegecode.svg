@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="200.000000pt" height="200.000000pt" viewBox="0 0 200.000000 200.000000"
+ preserveAspectRatio="xMidYMid meet">
+<defs>
+    <clipPath id="clip">
+      <circle  cx="975" cy="975" r="850" ></circle>
+    </clipPath>
+</defs>
+
+<g transform="translate(0.000000,200.000000) scale(0.100000,-0.100000)"
+fill="#d7393f" stroke="none" >
+<rect x="0" y="0" width="10000" height="10000">  </rect>
+<circle  cx="975" cy="975" r="850" fill="#FFFFFF"></circle>
+<path d="M0 1000 l0 -1000 1000 0 1000 0 0 1000 0 1000 -1000 0 -1000 0 0
+-1000z m1477 468 l73 -72 0 -93 0 -93 -105 0 -105 0 0 70 0 70 -75 0 -75 0 0
+-245 0 -245 75 0 75 0 0 80 0 80 105 0 105 0 0 -104 0 -104 -74 -66 -73 -66
+-140 0 -139 0 -42 36 -42 36 0 214 0 214 -35 39 c-32 35 -35 43 -35 102 l0 64
+77 77 78 78 140 0 140 0 72 -72z m-544 -229 l77 -71 0 -288 0 -287 -75 -72
+-75 -71 -143 0 -143 0 -72 73 -72 72 0 98 0 97 105 0 105 0 0 -75 0 -75 75 0
+75 0 0 245 0 245 -75 0 -75 0 0 -75 0 -75 -105 0 -105 0 0 99 0 99 73 66 72
+65 140 0 140 1 78 -71z" fill="#000000" clip-path="url(#clip)" />
+
+
+</g>
+
+</svg>
